@@ -1,0 +1,5 @@
+# ESP-IDF build output
+build/
+
+# Local managed component cache
+managed_components/
